@@ -167,7 +167,7 @@ course-enroller_<version>_amd64.deb
 Open a terminal in your download directory and install the package using:
 
 ```bash
-sudo apt install ./course-enroller_<version>_amd64.deb
+sudo apt install ./course-enroller_<version>.deb
 ```
 
 After installation, launch **Brandons Course Enroller** from your application menu or run:
@@ -181,7 +181,7 @@ course-enroller
 Download the latest Windows executable from the **Assets** section of the latest release:
 
 ```text
-course-enroller_<version>_windows_x64.exe
+course-enroller_<version>.exe
 ```
 
 No installation or separate Python installation is required.
