@@ -52,7 +52,7 @@ If you want to enroll in a specific laboratory group, use the URL of the corresp
 **Example: Course overview page**
 
 <kbd>
-  <img width="1920" height="628" alt="Stud.IP course overview page" src="https://github.com/user-attachments/assets/52f96abd-fcf7-4a19-bc42-c0f052be557e" />
+  <img width="1910" height="847" alt="image" src="https://github.com/user-attachments/assets/02fc7841-20b0-4e12-a02c-49bca0f0de40" />
 </kbd>
 
 <br>
