@@ -1,4 +1,4 @@
-# Brandons-Course-Enroller
+<img width="2048" height="768" alt="header" src="https://github.com/user-attachments/assets/c9a8e4c4-9b0b-4d5d-9f83-dc4b22ced5a3" />
 This programm automatically enrolls you into the given Courses at a specific time.
 
 This application is made for the campus system "StudIp" and doesnt work for other systems.
