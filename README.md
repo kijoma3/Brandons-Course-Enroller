@@ -12,7 +12,7 @@ It was only tested on the StudIp System of the university "Hochschule Flensburg"
 </p>
 <p>
 <b>2. Insert the Courses you want to enroll to</b>
-   - When inserting a courses URL, use the URL from the overview, or use the URL from the group-overview to join labors like in the pictures below<br>
+   - When inserting a courses URL, use the URL from the overview or use the URL from the group-overview to join labors like in the pictures below<br>
    <kbd><img width="857" height="689" alt="image" src="https://github.com/user-attachments/assets/f07352e9-90d8-4df5-877c-9eebd6999df3" /></kbd><br><br>
 <br><br>
   <kbd><img width="1920" height="628" alt="image" src="https://github.com/user-attachments/assets/52f96abd-fcf7-4a19-bc42-c0f052be557e" /></kbd>
@@ -31,13 +31,13 @@ It was only tested on the StudIp System of the university "Hochschule Flensburg"
     - Use the Input-Fields for Hours and Minutes to enter your time.<br>
     <kbd><img width="826" height="443" alt="image" src="https://github.com/user-attachments/assets/88c22d81-7cc2-46b3-a04a-80275c606297" /></kbd>
 <br><br>
-<b>5. Press "Schedule enrollment to start the timer for your enrollments</b><br>
+<b>5. Press "Schedule enrollment" to start the timer for your enrollments</b><br>
   - After starting the timer you will see a timer and the given time on the bottom.<br>
 <kbd><img width="826" height="443" alt="image" src="https://github.com/user-attachments/assets/924543d0-6351-4c2b-91e6-e3bc7905792a" /></kbd>
 <kbd><img width="884" height="164" alt="image" src="https://github.com/user-attachments/assets/118fe04c-fff6-4184-b27f-14d82fcb9e5a" /></kbd>
 <br><br>
 <b>6. Results</b><br>
-- If your timer is done a feedback panel will appear with the state of your enrollments. After that you should be enrolled in your courses
+- If your timer is done a feedback panel will appear with the state of your enrollments. After that you should be enrolled in your courses<br>
 <kbd><img width="837" height="246" alt="image" src="https://github.com/user-attachments/assets/0b7f6712-4042-4bc6-8d38-273c87773ecc" /></kbd><br>
 <sub>Feedback panel</sub><br>
 <kbd><img width="551" height="180" alt="image" src="https://github.com/user-attachments/assets/c205052b-45a9-4590-be11-10c7079414f0" /></kbd><br>
