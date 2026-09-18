@@ -1,0 +1,7 @@
+Package: course-enroller
+Version: 1.0.0
+Section: education
+Priority: optional
+Architecture: amd64
+Maintainer: Brandon
+Description: Application for automated course enrollment

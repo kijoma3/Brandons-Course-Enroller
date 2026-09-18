@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Brandons Course Enroller
+Comment=Automated course enrollment
+Exec=course-enroller
+Icon=course-enroller
+Terminal=false
+Type=Application
+Categories=Education;
