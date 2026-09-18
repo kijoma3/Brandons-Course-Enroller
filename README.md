@@ -151,16 +151,23 @@ A feedback panel will then display the status of each enrollment.
 
 ## Installation
 
-Prebuilt versions are available for Linux and Windows.
+Prebuilt versions of Brandons Course Enroller are available on the
+[GitHub Releases](../../releases) page.
+
+Download the latest release and select the appropriate version for your operating system.
 
 ### Linux
 
-Download the latest `.deb` package.
+Download the latest Debian package from the **Assets** section of the latest release:
 
-Install it using:
+```text
+course-enroller_<version>_amd64.deb
+```
+
+Open a terminal in your download directory and install the package using:
 
 ```bash
-sudo apt install ./course-enroller.deb
+sudo apt install ./course-enroller_<version>_amd64.deb
 ```
 
 After installation, launch **Brandons Course Enroller** from your application menu or run:
@@ -171,17 +178,20 @@ course-enroller
 
 ### Windows
 
-Download the latest Windows executable:
+Download the latest Windows executable from the **Assets** section of the latest release:
 
 ```text
-course-enroller.exe
+course-enroller_<version>_windows_x64.exe
 ```
 
-No installation or separate Python installation is required. Simply launch the executable.
+No installation or separate Python installation is required.
 
-> [!TIP]
-> Prebuilt versions should preferably be downloaded from the
-> [Releases](../../releases) section of this repository.
+Simply run the downloaded `.exe` file.
+
+> [!NOTE]
+> Windows may display a security warning when running the application because
+> the executable is not digitally signed. Make sure you downloaded the file
+> from the official GitHub Releases page of this repository.
 
 ---
 
@@ -221,8 +231,6 @@ Then run:
 ```bash
 python main.py
 ```
-
----
 
 ## Technologies
 
