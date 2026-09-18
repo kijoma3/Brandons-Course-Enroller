@@ -91,7 +91,7 @@ class App(ctk.CTk):
         self.login_panel = ctk.CTkFrame(
             self.login_frame,
             corner_radius=5,
-            width="300",
+            width=300,
             fg_color="#1E293B",
         )
 
